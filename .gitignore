@@ -1,6 +1,1 @@
-*
-!.vscode
-!.gitignore
-!*.s
-!Makefile
-!README.md
+.vscode 
